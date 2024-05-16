@@ -1,1 +1,3 @@
 temporary file for understanding git this is a index file
+
+now its version 2
